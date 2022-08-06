@@ -1,4 +1,4 @@
-const clientId = 'e1656e00a1474483b0ea3c21f18f62ec' // make sure to hide this information when submitting to github
+const clientId = '' // make sure to include your own Spotify Cliend ID here
 const redirectUri = 'http://squalid-detail.surge.sh'
 
 let accessToken;
